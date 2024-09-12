@@ -5,6 +5,6 @@ package com.vikram.TechTreasure.constants;
  */
 public class TechTreasureConstants {
 
-  public static final String TECH_TREASURE = "TechTresure";
+  public static final String TECH_TREASURE = "BheekMangnekaTharikaThodaCazualHai";
   
 }
