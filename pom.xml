@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vikram</groupId>
-	<artifactId>TechTresure</artifactId>
+	<artifactId>TechTreasure</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TechTresure</name>
+	<name>TechTreasure</name>
 	<description>A API for the technical event</description>
 	<url/>
 	<licenses>
