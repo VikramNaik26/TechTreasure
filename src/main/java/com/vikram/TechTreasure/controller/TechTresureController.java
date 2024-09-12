@@ -21,7 +21,7 @@ import com.vikram.TechTreasure.service.TechTreasureService;
  */
 @RestController
 @CrossOrigin
-@RequestMapping("/api/v1/tech-tresure")
+@RequestMapping("/api/v1/tech-treasure")
 public class TechTresureController {
 
   private TechTreasureService techTreasureService;
