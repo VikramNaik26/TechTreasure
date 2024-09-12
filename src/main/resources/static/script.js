@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function checkAnswer() {
     const answer = riddleAnswer.value.trim().toLowerCase();
-    if (answer === 'echo') {
+    if (answer === 'hieka') {
       riddleContainer.classList.add('hidden');
       congratsContainer.classList.remove('hidden');
     } else {
